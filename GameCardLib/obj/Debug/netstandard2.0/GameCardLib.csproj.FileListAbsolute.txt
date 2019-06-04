@@ -1,0 +1,9 @@
+C:\Users\Desktop\source\repos\Blackjack\GameCardLib\bin\Debug\netstandard2.0\GameCardLib.deps.json
+C:\Users\Desktop\source\repos\Blackjack\GameCardLib\bin\Debug\netstandard2.0\GameCardLib.dll
+C:\Users\Desktop\source\repos\Blackjack\GameCardLib\bin\Debug\netstandard2.0\GameCardLib.pdb
+C:\Users\Desktop\source\repos\Blackjack\GameCardLib\obj\Debug\netstandard2.0\GameCardLib.csproj.CoreCompileInputs.cache
+C:\Users\Desktop\source\repos\Blackjack\GameCardLib\obj\Debug\netstandard2.0\GameCardLib.AssemblyInfoInputs.cache
+C:\Users\Desktop\source\repos\Blackjack\GameCardLib\obj\Debug\netstandard2.0\GameCardLib.AssemblyInfo.cs
+C:\Users\Desktop\source\repos\Blackjack\GameCardLib\obj\Debug\netstandard2.0\GameCardLib.dll
+C:\Users\Desktop\source\repos\Blackjack\GameCardLib\obj\Debug\netstandard2.0\GameCardLib.pdb
+C:\Users\Desktop\source\repos\Blackjack\GameCardLib\obj\Debug\netstandard2.0\GameCardLib.csprojAssemblyReference.cache
